@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+exclude:
+  - _posts/0000-00-00-welcome-to-jekyll.markdown
